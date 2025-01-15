@@ -1,8 +1,3 @@
 {
-    "telegramToken": "8178688289:AAFtQOewnqz8gxjSZjwCK7bcoljJnpJTLnE",
-    "adminId": "6273289379",
-    "githubUsername": "slayerbot1",
-    "githubRepo": "addtoken",
-    "githubFilePath": "tokens.json",
-    "githubAccessToken": "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"
+  "telegramToken": "8178688289:AAFtQOewnqz8gxjSZjwCK7bcoljJnpJTLnE"
 }
